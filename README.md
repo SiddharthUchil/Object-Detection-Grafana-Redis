@@ -4,6 +4,8 @@
 
 RedisEdge from Redis Labs is a purpose-built, multi-model database for the demanding conditions at the Internet of Things (IoT) edge. It can ingest millions of writes per second with <1ms latency and a very small footprint (<5MB), so it easily resides in constrained compute environments. It can run on a variety of edge devices and sensors ranging from ARM32 to x64-based hardware. RedisEdge bundles open source Redis (version 5 with Redis Streams) with the RedisAI and RedisTimeSeries modules, along with RedisGears for inter-module communication.
 
+![objectdetection](https://github.com/SiddharthUchil/Object-Detection-Grafana-Redis/assets/36127139/ef7c0058-c7ef-44d3-912f-edf70a698487)
+
 RedisEdge bundles Open Source Redis + Redis Streams + Redis Modules.
 
 - Redis Stream is a new data type introduced with Redis 5.0, which models a log data structure in a more abstract way.
